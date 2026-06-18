@@ -1,6 +1,7 @@
 # Torus
 
-Torus is the home for our product code, services, and tooling.
+Engineering intelligence for capital projects.
+Open-sourcing experiments.
 
 ## Getting access
 
