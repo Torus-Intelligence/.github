@@ -1,4 +1,4 @@
-# Torus
+# Torus (YC S26)
 
 Engineering intelligence for capital projects.
 Open-sourcing experiments.
