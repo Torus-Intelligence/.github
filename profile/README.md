@@ -1,6 +1,6 @@
 # Torus (YC S26)
 
-Engineering intelligence for capital projects.
+Superintelligence for Infrastructure -- EPC/AEC teams.
 Open-sourcing experiments.
 
 ## Getting access
